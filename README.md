@@ -145,15 +145,6 @@ All visuals were designed using a modern dark dashboard theme with a blue & purp
 
 ---
 
-## 📁 Project Deliverables
-
-* Exploratory Data Analysis Notebook
-* Professional Presentation Deck
-* Business Insights & Recommendations
-* Cleaned and Processed Dataset
-
----
-
 ## 🚀 Outcome
 
 This project demonstrates how data analytics can transform raw marketing campaign data into strategic business insights that improve decision-making, campaign optimization, and revenue growth.
